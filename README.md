@@ -5,7 +5,7 @@
 Given the above screenshot, let's create a weather app! 💪
 
 ## Setup ⚙️
-You should fork this repository and work on it. When you finish, please refer to [Delivery](#Delivery).
+You should fork this repository and work on it. When you finish, please refer to [Delivery](#delivery-).
 
 ## Requirements 👩‍💻
 
