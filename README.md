@@ -1,12 +1,8 @@
 # React Native Challenge
 
-Given the visual reference `reference.jpg`, let's create a small weather app.
+![Screenshot](reference.jpg)
 
-- `Base URL`: http://api.weatherapi.com/v1
-- `API KEY`: 6be8c28794924ed8a2a184922222905
-- `Documentation`: https://www.weatherapi.com/docs/
-- Assets included on `./assets/` folder
-- Information about icons and codes can be found in https://www.weatherapi.com/docs/#weather-icons 
+Given the above screenshot, let's create a small weather app.
 
 ## Requirements
 
@@ -28,3 +24,9 @@ Given the visual reference `reference.jpg`, let's create a small weather app.
 	- 22hs (Night)
 - Tapping on **Tomorrow** button should switch these cards information to display the following day's values. Also, you should be able to click again to change to Today's values.
 - The bottom sheet should display other helpful information that the API delivers (not necessarily the same as the reference) like UV index, wind speed, direction, and more).
+
+## Documentation
+
+- `Base URL`: http://api.weatherapi.com/v1
+- `API KEY`: 6be8c28794924ed8a2a184922222905
+- `Documentation`: https://www.weatherapi.com/docs/
